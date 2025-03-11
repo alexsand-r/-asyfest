@@ -2,7 +2,7 @@
 
 This is an **adaptive layout** for a landing page of a company that organizes events and celebrations. The design is responsive, ensuring it works seamlessly across devices. The layout was built using **HTML**, **CSS**, and **JavaScript**, with special attention to smooth animations triggered by JavaScript.
 
-🔗 Live Demo:  [[Your GitHub Pages Link][(https://alexsand-r.github.io/Calculation-of-area/)](https://alexsand-r.github.io/-asyfest/home.html#)](https://alexsand-r.github.io/-asyfest/home.html#)
+🔗 Live Demo:  (https://alexsand-r.github.io/-asyfest/home.html#)](https://alexsand-r.github.io/-asyfest/home.html#)
 
 ## 📌 Features
 
@@ -24,6 +24,6 @@ This is an **adaptive layout** for a landing page of a company that organizes ev
    git clone https://github.com/yourusername/firma-prazdnik.git
 
 
-🔗 Live Demo:  [[Your GitHub Pages Link][(https://alexsand-r.github.io/Calculation-of-area/)](https://alexsand-r.github.io/-asyfest/home.html#)](https://alexsand-r.github.io/-asyfest/home.html#)
+🔗 Live Demo:  (https://alexsand-r.github.io/-asyfest/home.html#)
 📫 Contact Me:
 1inboxna@gmail.com
