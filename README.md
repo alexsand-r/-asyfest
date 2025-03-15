@@ -16,12 +16,7 @@ This is an **adaptive layout** for a landing page of a company that organizes ev
 - ![CSS](https://img.shields.io/badge/CSS-232F3E?style=for-the-badge&logo=css3&logoColor=1572B6) **CSS** – For styling the webpage and ensuring responsiveness.  
 - ![JavaScript](https://img.shields.io/badge/JavaScript-232F3E?style=for-the-badge&logo=javascript&logoColor=F7DF1E) **JavaScript** – For implementing smooth animations on page elements.
 
-## 🚀 How to Use
 
-1. **Clone the Repository**  
-   
-   ```bash
-   git clone https://github.com/yourusername/firma-prazdnik.git
 
 
 🔗 Live Demo:  (https://alexsand-r.github.io/-asyfest/home.html#)
