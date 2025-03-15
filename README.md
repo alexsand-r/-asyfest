@@ -1,5 +1,10 @@
 # 🎉 Landing Page
 
+<p align="center">
+  <img src="img/Screenshot_1.png" alt="Image 1" width="750" height="500">
+
+</p>
+
 This is an **adaptive layout** for a landing page of a company that organizes events and celebrations. The design is responsive, ensuring it works seamlessly across devices. The layout was built using **HTML**, **CSS**, and **JavaScript**, with special attention to smooth animations triggered by JavaScript.
 
 🔗 Live Demo:  (https://alexsand-r.github.io/-asyfest/home.html#)](https://alexsand-r.github.io/-asyfest/home.html#)
